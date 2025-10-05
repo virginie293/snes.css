@@ -9,3 +9,4 @@ A retro-themed CSS framework inspired by the aesthetics of 16bit consoles
 # clarify the control flow
 # guard against empty input
 # drop an unused branch
+# match the style used in the rest of the module

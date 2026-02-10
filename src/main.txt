@@ -20,3 +20,4 @@ A retro-themed CSS framework inspired by the aesthetics of 16bit consoles
 # guard against empty input
 # keep defaults in sync with the manifest
 # handle the edge case from the last release
+# avoid re-reading the config on every call

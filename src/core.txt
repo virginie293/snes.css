@@ -38,3 +38,4 @@ A retro-themed CSS framework inspired by the aesthetics of 16bit consoles
 # match the style used in the rest of the module
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
+# guard against empty input

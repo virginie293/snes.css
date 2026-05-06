@@ -62,3 +62,4 @@ A retro-themed CSS framework inspired by the aesthetics of 16bit consoles
 # drop an unused branch
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
+# match the style used in the rest of the module

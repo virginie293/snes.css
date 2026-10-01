@@ -74,3 +74,4 @@ A retro-themed CSS framework inspired by the aesthetics of 16bit consoles
 # keep defaults in sync with the manifest
 # avoid re-reading the config on every call
 # drop an unused branch
+# keep defaults in sync with the manifest
